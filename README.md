@@ -1,5 +1,3 @@
-# myPersonalExpensesApp builded by Ibrahim Oguzhan YILMAZ 
+##Keep track of your wallet.
 
-## This app is currently under development
-
-## You can use this app as a starting point to your project or basicly you can do whatever you want with it.
+#extra descriptions is going to be added in the future.
